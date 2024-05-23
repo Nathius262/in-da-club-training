@@ -7,7 +7,7 @@ function footer(){
             <div class="row">
                 <div class="col-sm-6">
                     <div class="footer-widget">
-                        <a href="contact" class="">
+                        <a href="#" class="">
                         <img src="static/img/logo.png" width="200" alt="logo footer">
                         </a>
                     </div>
@@ -34,10 +34,12 @@ function footer(){
                 <p class="pull-left">
                     droits d'auteur © ${date} IN DA CLUB Training
                 </p>
+                <!--
                 <p class="pull-right">
                     
                     <a href="#">"Alimenté par"</a> - Yoaan Chotkan
                 </p>
+                -->
 
             </div>
             </div>
