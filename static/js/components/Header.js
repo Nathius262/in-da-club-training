@@ -16,12 +16,14 @@ function Header(){
                     <li class="nav-item">
                         <a class="nav-link" href="index">accueil</a>
                     </li>
+                    <!--
                     <li class="nav-item">
                         <a class="nav-link" href="about">à propos</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="contact">contact</a>
                     </li>
+                    -->
                     <li class="nav-item">
                         <a target="" class="nav-link highlight" href="https://pay.sumup.com/b2c/QXMC4SS0">Réserver ma place</a>
                     </li>

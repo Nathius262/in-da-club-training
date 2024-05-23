@@ -11,6 +11,7 @@ function footer(){
                         <img src="static/img/logo.png" width="200" alt="logo footer">
                         </a>
                     </div>
+                    <!--
                     <div class="footer-widget">
                         <h5 class="title">Author</h5>
                         <ul>
@@ -19,13 +20,13 @@ function footer(){
                             <li><a href="/privacy-policy">Confidentialité</a></li>
                         </ul>
                     </div>
+                    -->
                 </div>
                 
                 <div class="col-sm-6 mt-4 text-light text-md-right footersocial">
                     <p class="h5">Connecte-toi avec nous</p>
-                    <a href="#"><i class="fa-brands fa-facebook"></i></a>
-                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
-                    <a href="#"><i class="fa-brands fa-google"></i></a>
+                    <a href="mailto:idctraining95@gmail.com"><i class="fa-brands fa-google"></i></a>
+                    <a href="https://www.instagram.com/indaclub_training?igsh=MW1pMmNsbXRydDBkag%3D%3D&utm_source=qr"><i class="fa-brands fa-instagram"></i></a>
                 </div>
             </div>
             <div class="row justify-content-center">
@@ -35,7 +36,7 @@ function footer(){
                 </p>
                 <p class="pull-right">
                     
-                    <a href="https://pixtinfinity.com/">"Alimenté par"</a> - Pixtinfinity
+                    <a href="#">"Alimenté par"</a> - Yoaan Chotkan
                 </p>
 
             </div>
