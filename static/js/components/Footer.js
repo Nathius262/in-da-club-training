@@ -34,12 +34,12 @@ function footer(){
                 <p class="pull-left">
                     droits d'auteur © ${date} IN DA CLUB Training
                 </p>
-                <!--
+                
                 <p class="pull-right">
                     
-                    <a href="#">"Alimenté par"</a> - Yoaan Chotkan
+                    <a href="#">"Alimenté par"</a> - Yoaan Chotkan, Tatiana Fatma, Ruben Surville, et Paul Plaisir
                 </p>
-                -->
+                
 
             </div>
             </div>
