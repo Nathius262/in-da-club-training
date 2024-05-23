@@ -1,1 +1,3 @@
 # InDaClubTraining
+
+Chez IN DA CLUB Training, notre mission est de fournir une expérience de remise en forme inégalée qui va au-delà de l'environnement traditionnel d'une salle de sport. Nous croyons au pouvoir de la communauté, au frisson de la compétition et à la satisfaction de la croissance personnelle. Notre objectif est de garantir que chaque événement que nous organisons laisse une impression durable, motivant nos participants à atteindre leurs objectifs de mise en forme et à découvrir de nouvelles forces en eux-mêmes.
