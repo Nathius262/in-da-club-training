@@ -25,7 +25,7 @@ function Header(){
                     </li>
                     -->
                     <li class="nav-item">
-                        <a target="" class="nav-link highlight" href="https://pay.sumup.com/b2c/QXMC4SS0">Réserver ma place</a>
+                        <a target="" class="nav-link highlight" href="https://pay.sumup.com/b2c/QF2VEXF0">Réserver ma place</a>
                     </li>
                 </ul>
                 <!-- End Menu -->
